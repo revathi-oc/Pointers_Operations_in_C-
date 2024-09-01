@@ -1,4 +1,4 @@
-# Pointers_Operations_in_C-
+# Pointers_Operations_in_C++
 ## Aim
 We learn operations performed in pointers in C++.
 ## Theory
